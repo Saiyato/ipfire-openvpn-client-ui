@@ -1,0 +1,6 @@
+$subservices->{'22.ovpnclient'} = {
+               'caption' => $Lang::tr{'ovpnclient'},
+               'enabled' => 1,
+               'uri' => '/cgi-bin/ovpnclient.cgi',
+               'title' => "$Lang::tr{'ovpnclient'}",
+                                  };
